@@ -19,6 +19,8 @@
 | [`sql/03-conditions.sql`](sql/03-conditions.sql) | LIKE, OR, BETWEEN |
 | [`sql/04-join.sql`](sql/04-join.sql) | INNER JOIN, LEFT JOIN, 테이블 간 열 비교 |
 | [`sql/05-having-subquery.sql`](sql/05-having-subquery.sql) | HAVING, 서브쿼리 |
+| [`sql/06-group-by-having-duplicates.sql`](sql/06-group-by-having-duplicates.sql) | GROUP BY 여러 컬럼 + HAVING으로 중복/재구매 탐지 |
+| [`sql/07-self-join.sql`](sql/07-self-join.sql) | 같은 테이블을 두 번 JOIN하는 계층구조(자기참조) 조회 |
 | [`notes/concepts.md`](notes/concepts.md) | 개념 정리 노트 (헷갈렸던 부분·실수 기록 포함) |
 
 ## 회계 실무와의 연결
